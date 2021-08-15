@@ -134,6 +134,7 @@ def distancia():
 
 if __name__ =="__main__":
 
-    menu = presentacion()
     recorrido = distancia()
+    menu = presentacion()
+
 
